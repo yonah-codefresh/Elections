@@ -1,7 +1,8 @@
 ﻿body
 {
     direction: rtl;
-    font-family: 'Segoe UI', sans-serif
+    font-family: 'wingdings', sans-serif;
+    background-color: 'blue';
 }
 
 span {
