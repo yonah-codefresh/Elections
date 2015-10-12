@@ -1,5 +1,5 @@
 Elections
-=========
+==========
 
 Israeli elections analyser
 
